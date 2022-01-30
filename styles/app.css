@@ -3,3 +3,26 @@ body {
   background: #edf2f4;
   font-family: "Bellota Text", cursive, system-ui;
 }
+
+h2 {
+  margin: 0 0 0.8rem;
+}
+
+p {
+  margin: 0 0 1.5rem;
+}
+
+p:last-child {
+  margin: 0;
+}
+
+a {
+  color: white;
+  margin-right: 0.5rem;
+}
+
+.header {
+  background: linear-gradient(111deg, #7263df 0%, #2694e3 100%);
+  padding: 1.5rem;
+  color: white;
+}
