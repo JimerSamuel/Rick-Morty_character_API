@@ -26,3 +26,20 @@ a {
   padding: 1.5rem;
   color: white;
 }
+
+.header-wrapper .tittle {
+  text-transform: uppercase;
+  font-size: 3rem;
+  margin: 0 0 1.5rem;
+  display: block;
+}
+
+.container-wrapper {
+  display: flex;
+  overflow: scroll;
+}
+
+.card {
+  margin-right: 1.5rem;
+  border-radius: 10px;
+}
